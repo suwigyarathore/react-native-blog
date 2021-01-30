@@ -6,7 +6,7 @@ const IndexScreen = () => {
     const value = useContext(BlogContext);
     return (
         <View>
-            <Text>IndexScreen</Text>
+            <Text>IndexScreen {5}</Text>
         </View>
     )
 }
